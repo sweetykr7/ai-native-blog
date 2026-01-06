@@ -98,9 +98,9 @@ export default async function Blog({ params }: { params: Promise<{ slug: string 
       </article>
       <AuthorProfile
         author={{
-          name: 'My Portfolio',
+          name: 'Joey Kim',
           bio: 'A passionate developer sharing insights about web development, design, and technology.',
-          avatarUrl: 'https://avatar.vercel.sh/my-portfolio',
+          avatarUrl: 'https://avatar.vercel.sh/joey-kim',
         }}
       />
     </section>
